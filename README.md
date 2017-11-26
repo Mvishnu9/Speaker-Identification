@@ -18,7 +18,7 @@ The results of each of these are provided in raw format in Results.xlsx
 4. Run `python KNN.py` `python SVM.py` etc.
 
 ### This is part of our Statistical Methods in A.I. course project with the following team
-1. Vishnu M.
-2. Navya Khare
-3. Tanmay Joshi
-4. Shubhangi Gautam
+1. Vishnu M. - 201556111
+2. Navya Khare - 201564220
+3. Tanmay Joshi - 201556069
+4. Shubhangi Gautam - 201564189
